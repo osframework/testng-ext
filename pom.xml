@@ -17,7 +17,7 @@
 
 	<name>TestNG Extensions</name>
 	<description>OSFramework extensions for TestNG testing framework</description>
-	<url>http://testng-ext.osframework.org/</url>
+	<url>http://osframework.org/projects/testng-ext/</url>
 	<inceptionYear>2012</inceptionYear>
 
 	<organization>
@@ -96,6 +96,7 @@
 				<filtering>false</filtering>
 				<includes>
 					<include>LICENSE.txt</include>
+					<include>NOTICE.txt</include>
 					<include>README.md</include>
 				</includes>
 			</resource>

@@ -1,0 +1,6 @@
+   OSFramework TestNG Extensions
+   Copyright 2012 OSFramework Project
+
+   This software extends the TestNG framework. The original software is
+   available from
+      http://testng.org/
