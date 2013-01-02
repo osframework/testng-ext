@@ -1,0 +1,12 @@
+						-----------------
+						TestNG Extensions
+						-----------------
+						Dave Joyce
+						-----------------
+						2013-01-02
+
+Introduction
+
+	A small library providing extensions to the TestNG framework. This library
+	mainly exists for use in unit and integration tests of various OSFramework
+	projects.
